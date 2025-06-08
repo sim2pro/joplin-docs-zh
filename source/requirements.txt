@@ -7,4 +7,4 @@ myst-parser>=0.18.0          # myst_parser
 sphinx-copybutton>=0.5.0     # sphinx_copybutton
 sphinx-tabs>=3.0.0           # sphinx_tabs.tabs
 sphinx-rtd-theme>=1.0.0      # sphinx_rtd_theme
-sphinxcontrib-graphviz # sphinx.ext.graphviz
+#sphinxcontrib-graphviz # sphinx.ext.graphviz
