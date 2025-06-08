@@ -1,0 +1,10 @@
+# Sphinx 核心
+sphinx>=5.0.0
+
+# 扩展列表（根据 conf.py 中的 extensions）
+sphinxcontrib-mermaid>=0.8.0  # sphinxcontrib.mermaid
+myst-parser>=0.18.0          # myst_parser
+sphinx-copybutton>=0.5.0     # sphinx_copybutton
+sphinx-tabs>=3.0.0           # sphinx_tabs.tabs
+sphinx-rtd-theme>=1.0.0      # sphinx_rtd_theme
+sphinxcontrib-graphviz>=0.18 # sphinx.ext.graphviz

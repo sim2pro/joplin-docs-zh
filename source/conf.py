@@ -23,11 +23,11 @@ gettext_compact = False
 locale_dirs = ['locale/']  # 翻译文件存放目录
 
 extensions = [
-    'myst_parser',
     'sphinx.ext.graphviz',
     'sphinx.ext.ifconfig',
     'sphinx.ext.intersphinx',
     'sphinx_copybutton',
+    'myst_parser',
 #    'sphinx_multiversion',
     'sphinx_tabs.tabs',
     'sphinx_rtd_theme',
