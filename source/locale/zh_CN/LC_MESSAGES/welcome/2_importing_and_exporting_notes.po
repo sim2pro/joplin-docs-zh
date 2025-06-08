@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Joplin
+# This file is distributed under the same license as the Joplin Tutorial
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr "Project-Id-Version: Joplin Tutorial \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-08 12:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:1
+msgid "Importing and exporting notes ↔️"
+msgstr "笔记的导入与导出"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:3
+msgid "Importing from Evernote"
+msgstr "从Evernote中导入"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:5
+msgid ""
+"Joplin was designed as a replacement for Evernote and so can import "
+"complete Evernote notebooks, as well as notes, tags, images, attached "
+"files and note metadata (such as author, geo-location, etc.) via ENEX "
+"files."
+msgstr "Joplin 旨在替代Evernote，因此可以通过ENEX文件导入完整的Evernote笔记本，以及笔记、标签、图像、附加文件和笔记 meta 数据（例如作者、地理位置等）。\n"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:7
+msgid ""
+"To import Evernote data, first export your Evernote notebooks to ENEX "
+"files as described [here](https://help.evernote.com/hc/en-"
+"us/articles/209005557-How-to-back-up-export-and-restore-import-notes-and-"
+"notebooks). Then, on **desktop**, do the following: Open File > Import > "
+"ENEX and select your file. The notes will be imported into a new separate"
+" notebook. If needed they can then be moved to a different notebook, or "
+"the notebook can be renamed, etc. Read [more about Evernote "
+"import](https://joplinapp.org/#importing-from-evernote)."
+msgstr "要导入Evernote数据，请先将您的Evernote笔记本导出到 ENEX 文件，如 [here](https://help.evernote.com/hc/en-us/articles/209005557-How-to-back-up-export-and-restore-import-notes-and-notebooks) 所述。然后，在 **桌面** 上，执行以下操作：打开文件 > 导入 > ENEX 并选择您的文件。笔记将被导入到新的单独笔记本中。如果需要，可以将它们移动到不同的笔记本，或者可以重命名笔记本等。阅读 [more about Evernote import](https://joplinapp.org/#importing-from-evernote) 。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:9
+msgid "Importing from other apps"
+msgstr "从其它 apps 中导入"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:11
+msgid ""
+"Joplin can also import notes from [many other "
+"apps](https://github.com/laurent22/joplin#importing-from-other-"
+"applications) as well as [from Markdown or text "
+"files](https://github.com/laurent22/joplin#importing-from-markdown-"
+"files)."
+msgstr "Joplin 还可以从 [更多其它 apps](https://github.com/laurent22/joplin#importing-from-other-applications) 和 [更多的 Markdown 或 text 文件](https://github.com/laurent22/joplin#importing-from-markdown-files) 导入笔记。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:13
+msgid "Exporting notes"
+msgstr "导出笔记"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/2_importing_and_exporting_notes.md:15
+msgid ""
+"Joplin can export to the JEX format (Joplin Export file), which is an "
+"archive that can contain multiple notes, notebooks, etc. This is a format"
+" mostly designed for backup purposes. You may also export to other "
+"formats such as plain Markdown files, to JSON or to PDF. Find out [more "
+"about exporting notes](https://github.com/laurent22/joplin#exporting) on "
+"the official website."
+msgstr "Joplin 可以输出为 JEX 格式（Joplin 原生输出文件），这是一个可以包含多个笔记、笔记本等的档案。也是一种主要用于备份目的的格式。您还可以输出到其他格式，例如纯Markdown文件、JSON 或PDF。请在官方网站上了解 [more about exporting notes](https://github.com/laurent22/joplin#exporting) 。"
+

@@ -1,0 +1,239 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Joplin
+# This file is distributed under the same license as the Joplin Tutorial
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr "Project-Id-Version: Joplin Tutorial \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-08 12:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:1
+msgid "Tips 💡"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:3
+msgid ""
+"The first few notes should have given you an overview of the main "
+"functionalities of Joplin, but there's more it can do. See below for some"
+" of these features and how to get more help using the app:"
+msgstr "前几个笔记应该让您大致了解了 Joplin 的主要功能，但它还可以做更多的事情。请参阅下文，了解其中一些功能以及如何使用该应用程序获得更多帮助："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:5
+msgid "Web clipper"
+msgstr "Web剪藏器"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:7
+msgid "![](./WebClipper.png)"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:9
+msgid ""
+"The Web Clipper is a browser extension that allows you to save web pages "
+"and screenshots from your browser. To start using it, open the Joplin "
+"desktop application, go to the Web Clipper Options and follow the "
+"instructions."
+msgstr "Web Clipper是一个浏览器扩展，允许您从浏览器保存网页和屏幕截图。要开始使用它，请打开 Joplin 桌面应用程序，转至Web Clipper选项并按照说明操作。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:11
+msgid "More info on the official website: https://joplinapp.org/clipper/"
+msgstr "更多信息请访问官方网站： <https://joplinapp.org/clipper/>"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:13
+msgid "Attachments"
+msgstr "附件"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:15
+msgid ""
+"Any kind of file can be attached to a note. In Markdown, links to these "
+"files are represented as an ID. In the note viewer, these files, if they "
+"are images, will be displayed or, if they are other files (PDF, text "
+"files, etc.) they will be displayed as links. Clicking on this link will "
+"open the file in the default application."
+msgstr "任何类型的文件都可以添加为笔记的附件。在Markdown中，指向这些文件的链接表示为ID。在笔记查看器中，这些文件（如果是图像）将被显示，或者如果是其他文件（PDF、文本文件等）它们将显示为链接。单击此链接将在默认应用程序中打开该文件。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:17
+msgid ""
+"Images can be attached either by clicking on \"Attach file\" or by "
+"pasting (with `Ctrl+V` or `Cmd+V`) an image directly in the editor, or by"
+" drag and dropping an image."
+msgstr "可以通过单击“附加文件”或直接在编辑器中粘贴（使用 `Ctrl+V` 或 `Cmd+V` ）图像，或通过拖放图像来附加插入图像。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:19
+msgid "More info about attachments: https://joplinapp.org#attachments--resources"
+msgstr "有关附件的更多信息： <https://joplinapp.org#attachments--resources>"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:21
+msgid "Search"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:23
+msgid ""
+"Joplin supports advanced search queries, which are fully documented on "
+"the official website: https://joplinapp.org#searching"
+msgstr "Joplin 支持高级搜索查询，这些查询已在官方网站上完整记录：<https://joplinapp.org#searching>"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:25
+msgid "Alarms"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:27
+msgid ""
+"An alarm can be associated with any to-do. It will be triggered at the "
+"given time by displaying a notification. To use this feature, see the "
+"documentation: https://joplinapp.org#notifications"
+msgstr "警报可以与任何待办事项相关联。它将通过显示通知在给定时间触发。要使用此功能，请参阅文档：<https://joplinapp.org#notifications>"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:29
+msgid "Markdown advanced tips"
+msgstr "Markdown高级技巧"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:31
+msgid ""
+"Joplin uses and renders [Github-flavoured "
+"Markdown](https://joplinapp.org/markdown/) with a few variations and "
+"additions."
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:33
+msgid "For example, tables are supported:"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "Tables"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "Are"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "Cool"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "col 3 is"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "right-aligned"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "$1600"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "col 2 is"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "centered"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "$12"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "zebra stripes"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "are neat"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md
+msgid "$1"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:41
+msgid ""
+"You can also create lists of checkboxes. These checkboxes can be ticked "
+"directly in the viewer, or by adding an \"x\" inside:"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:43
+msgid "[ ] Milk"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:44
+msgid "[ ] Eggs"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:45
+msgid "[x] Beer"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:47
+msgid ""
+"Math expressions can be added using the [KaTeX "
+"notation](https://khan.github.io/KaTeX/):"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:49
+msgid ""
+"$$ f(x) = \\int_{-\\infty}^\\infty     \\hat f(\\xi)\\,e^{2 \\pi i \\xi "
+"x}     \\,d\\xi $$"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:55
+msgid ""
+"Various other tricks are possible, such as using HTML, or customising the"
+" CSS. See the Markdown documentation for more info - "
+"https://joplinapp.org#markdown"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:57
+msgid "Community and further help"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:59
+msgid ""
+"For general discussion about Joplin, user support, software development "
+"questions, and to discuss new features, go to the [Joplin "
+"Forum](https://discourse.joplinapp.org/). It is possible to login with "
+"your GitHub account."
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:60
+msgid ""
+"The latest news are posted [on the Patreon "
+"page](https://www.patreon.com/joplin)."
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:61
+msgid ""
+"For bug reports and feature requests, go to the [GitHub Issue "
+"Tracker](https://github.com/laurent22/joplin/issues)."
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:63
+msgid "Donations"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:65
+msgid ""
+"Donations to Joplin support the development of the project. Developing "
+"quality applications mostly takes time, but there are also some expenses,"
+" such as digital certificates to sign the applications, app store fees, "
+"hosting, etc. Most of all, your donation will make it possible to keep up"
+" the current development standard."
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/4_tips.md:67
+msgid ""
+"Please see the [donation page](https://joplinapp.org/donate/) for "
+"information on how to support the development of Joplin."
+msgstr ""
+

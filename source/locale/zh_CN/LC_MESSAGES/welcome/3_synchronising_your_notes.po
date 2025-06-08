@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Joplin
+# This file is distributed under the same license as the Joplin Tutorial
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr "Project-Id-Version: Joplin Tutorial \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-08 12:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:1
+msgid "Synchronising your notes 🔄"
+msgstr "同步笔记🔄"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:3
+msgid ""
+"One of the goals of Joplin was to avoid being tied to any particular "
+"company or service, whether it is Evernote, Google or Microsoft. As such "
+"the synchronisation is designed without any hard dependency to any "
+"particular service. You basically choose the service you prefer among "
+"those supported, setup the configuration, and the app will be able to "
+"sync between your computers or mobile devices."
+msgstr "Joplin 的目标之一是避免与任何特定的公司或服务绑定，无论是Evernote、Google还是Microsoft。因此，同步的设计没有对任何特定服务的任何硬依赖性。您只需在支持的服务中选择您喜欢的服务，设置配置，应用程序将能够在您的计算机或移动设备之间同步。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:5
+msgid "The supported cloud services are the following:"
+msgstr "支持的云服务如下："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:7
+msgid "Setting up Dropbox synchronisation"
+msgstr "设置Dropbox同步"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:9
+msgid ""
+"Select \"Dropbox\" as the synchronisation target in the config screen (it"
+" is selected by default). Then, to initiate the synchronisation process, "
+"click on the \"Synchronise\" button in the sidebar and follow the "
+"instructions."
+msgstr "在配置屏幕中选择“Dropbox”作为同步目标（默认情况下选择）。然后，要启动同步过程，请单击左侧边栏 (Sidebar) 中的“同步”按钮并按照说明操作。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:11
+msgid "Setting up Nextcloud synchronisation"
+msgstr "设置 Nextcloud 同步"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:13
+msgid ""
+"Nextcloud is a self-hosted, private cloud solution. It can store "
+"documents, images and videos but also calendars, passwords and countless "
+"other things and can sync them to your laptop or phone. As you can host "
+"your own Nextcloud server, you own both the data on your device and "
+"infrastructure used for synchronisation. As such it is a good fit for "
+"Joplin."
+msgstr "Nextcloud 是一个自托管的私有云解决方案。(译者注：在国内可以用 Seafile 替代，体验不错)它可以存储文档、图像和视频，还可以存储日历、密码和无数其他内容，并可以将它们同步到您的笔记本电脑或手机。由于您可以托管自己的 Nextcloud 服务器，因此您拥有设备上的数据和用于同步的基础设施上的数据。因此，它非常适合 Joplin 。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:15
+msgid ""
+"To set it up, go to the config screen and select Nextcloud as the "
+"synchronisation target. Then input the WebDAV URL (to get it, go to your "
+"Nextcloud page, click on Settings in the bottom left corner of the page "
+"and copy the URL). Note that it has to be the **full URL**, so for "
+"example if you want the notes to be under `/Joplin`, the URL would be "
+"something like `https://example.com/remote.php/webdav/Joplin` (note that "
+"\"/Joplin\" part). And **make sure to create the \"/Joplin\" directory in"
+" Nextcloud**. Finally set the username and password. If it does not work,"
+" please [see this "
+"explanation](https://github.com/laurent22/joplin/issues/61#issuecomment-373282608)"
+" for more details."
+msgstr "要进行设置，请转至配置屏幕并选择 Nextcloud 作为同步目标。然后输入 WebDAV  URL（要获取它，请转到您的 Nextcloud 页面，单击页面左下角的设置并复制URL）。请注意，它必须是 **完整的URL**，例如，如果您希望笔记位于 `/Joplin` 下，则URL将类似于 `https://example.com/remote.php/webdav/Joplin` （请注意 `/ Joplin` 部分）。并 **确保在 Nextcloud** 中创建 `/Joplin` 目录。最后设置用户名和密码。如果不起作用，请 [see this explanation](https://github.com/laurent22/joplin/issues/61#issuecomment-373282608) 了解更多详细信息。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:17
+msgid "Setting up OneDrive or WebDAV synchronisation"
+msgstr "设置 OneDrive 或 WebDAV 同步"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:19
+msgid ""
+"OneDrive and WebDAV are also supported as synchronisation services. "
+"Please see [the export "
+"documentation](https://github.com/laurent22/joplin#exporting) for more "
+"information."
+msgstr "OneDrive 和  WebDav 也可为 Joplin 的同步服务提供支持。有关更多信息，请参阅 [the export documentation](https://github.com/laurent22/joplin#exporting) 。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:21
+msgid "Using End-To-End Encryption"
+msgstr "使用端到端加密"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/3_synchronising_your_notes.md:23
+msgid ""
+"Joplin supports end-to-end encryption (E2EE) on all the applications. "
+"E2EE is a system where only the owner of the data can read it. It "
+"prevents potential eavesdroppers - including telecom providers, internet "
+"providers, and even the developers of Joplin from being able to access "
+"the data. Please see the [End-To-End Encryption "
+"Tutorial](https://joplinapp.org/e2ee/) for more information about this "
+"feature and how to enable it."
+msgstr "Joplin 支持所有应用程序的端到端加密（ E2EE ）。E2EE 是一个只有数据所有者才能读取数据的系统。它可以防止潜在的窃听者-包括电信提供商、互联网提供商，甚至 Joplin 的开发人员-访问数据。有关此功能以及如何启用它的更多信息，请参阅 [End-To-End Encryption Tutorial](https://joplinapp.org/e2ee/) 。"
+

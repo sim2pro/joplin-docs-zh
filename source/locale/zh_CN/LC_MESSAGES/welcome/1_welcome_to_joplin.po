@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Joplin
+# This file is distributed under the same license as the Joplin Tutorial
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr "Project-Id-Version: Joplin Tutorial \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-08 12:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:1
+msgid "Welcome to Joplin! 🗒️"
+msgstr "欢迎来到 Joplin！🗒️"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:3
+msgid ""
+"Joplin is a free, open source note taking and to-do application, which "
+"helps you write and organise your notes, and synchronise them between "
+"your devices. The notes are searchable, can be copied, tagged and "
+"modified either from the applications directly or from your own text "
+"editor. The notes are in [Markdown "
+"format](https://joplinapp.org/#markdown). Joplin is available as a **💻 "
+"desktop**, **📱 mobile** and **🔡 terminal** application."
+msgstr "Joplin 是一个免费的开源笔记和待办事项应用程序，可帮助您撰写和组织笔记，并在多个设备之间同步它们。笔记是可搜索的，可以直接从应用程序或从您自己的文本编辑器复制、标记和修改。注释采用[Markdown格式](https://joplinapp.org/#markdown)。Joplin 可作为 **💻 桌面**、**移动** 和 **终端** 应用程序提供。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:5
+msgid ""
+"The notes in this notebook give an overview of what Joplin can do and how"
+" to use it. In general, the three applications share roughly the same "
+"functionalities; any differences will be clearly indicated."
+msgstr "此笔记本中的注释概述了 Joplin 可以做什么以及如何使用它。一般来说，这三个应用程序共享大致相同的功能; 任何差异都将被明确指出。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:7
+msgid "![](./AllClients.png)"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:9
+msgid "Joplin is divided into three parts"
+msgstr "Joplin 分为三个部分"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:11
+msgid "Joplin has three main columns:"
+msgstr "Joplin 有三个主要列："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:13
+msgid ""
+"**Sidebar** contains the list of your notebooks and tags, as well as the "
+"synchronisation status."
+msgstr "**Side bar** 包含您的笔记本和标签列表以及同步状态。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:14
+msgid ""
+"**Note List** contains the current list of notes - either the notes in "
+"the currently selected notebook, the notes in the currently selected tag,"
+" or search results."
+msgstr "**注释列表** 包含当前注释列表-当前选择的笔记本中的注释、当前选择的标签中的注释或搜索结果。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:15
+msgid ""
+"**Note Editor** is the place where you write your notes. There is a "
+"**WYSIWYG editor** and a **Markdown editor** - click on **Code View** to "
+"switch between both! You may also use an [external "
+"editor](https://joplinapp.org/#external-text-editor) to edit notes. For "
+"example you can use something like Typora as an external editor and it "
+"will display the note as well as any embedded images."
+msgstr "**笔记编辑器** 是您写笔记的地方。有一个 **所见即所得编辑器** 和一个 **Markdown编辑器** -点击 **代码查看** 在两者之间切换！您还可以使用 [外部编辑器](https://joplinapp.org/#external-text-editor) 来编辑笔记。例如，您可以使用Typora等工具作为外部编辑器，它将显示注释以及任何嵌入的图像。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:17
+msgid "Writing notes in Markdown"
+msgstr "用Markdown写笔记"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:19
+msgid ""
+"Markdown is a lightweight markup language with plain text formatting "
+"syntax. Joplin supports a [Github-flavoured Markdown "
+"syntax](https://joplinapp.org/markdown/) with a few variations and "
+"additions."
+msgstr "Markdown是一种轻量级标记语言，具有纯文本格式语法。Joplin 支持 [Github-flavoured Markdown syntax](https://joplinapp.org/markdown/) ，但有一些变化和添加了一些新特性。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:21
+msgid ""
+"In general, while Markdown is a markup language, it is meant to be human "
+"readable, even without being rendered. This is a simple example (you can "
+"see how it looks in the viewer panel):"
+msgstr "一般来说，虽然Markdown是一种标记语言，但它的目的是人类可读的，即使没有渲染。这是一个简单的示例（您可以在查看器面板中看到它的外观）："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:25
+msgid "Heading"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:27
+msgid "Sub-heading"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:29
+msgid ""
+"Paragraphs are separated by a blank line. Text attributes _italic_, "
+"**bold** and `monospace` are supported. You can create bullet lists:"
+msgstr "段落 (Paragraphs) 之间用一个空白行分隔。支持文本属性 _italic_ 、**bold** 和 `monospace` 。您可以创建项目列表： "
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:31
+msgid "apples"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:32
+msgid "oranges"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:33
+msgid "pears"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:35
+msgid "Or numbered lists:"
+msgstr "或编号列表 (numbered lists)："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:37
+msgid "wash"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:38
+msgid "rinse"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:39
+msgid "repeat"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:41
+msgid ""
+"This is a [link](https://joplinapp.org) and, finally, below is a "
+"horizontal rule:"
+msgstr "这是一个 [link](https://joplinapp.org) ，最后，下面是一个横线："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:45
+msgid ""
+"A lot more is possible including adding code samples, math formulae or "
+"checkbox lists - see the [Markdown "
+"documentation](https://joplinapp.org/#markdown) for more information."
+msgstr "还有更多可能，包括添加代码示例、数学公式或复选框列表-请参阅 [Markdown documentation](https://joplinapp.org/#markdown) 了解更多信息。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:47
+msgid "Organising your notes"
+msgstr "整理您的笔记"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:49
+msgid "With notebooks 📔"
+msgstr "笔记本"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:51
+msgid "Joplin notes are organised into a tree of notebooks and sub-notebooks."
+msgstr "Joplin 笔记被组织到笔记本和子笔记本树中。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:53
+msgid ""
+"On **desktop**, you can create a notebook by clicking on New Notebook, "
+"then you can drag and drop them into other notebooks to organise them as "
+"you wish."
+msgstr "在 **桌面** 上，您可以通过单击“新建笔记本”来创建笔记本，然后可以将它们拖放到其他笔记本中以根据您的意愿进行组织。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:54
+msgid "On **mobile**, press the \"+\" icon and select \"New notebook\"."
+msgstr "在 **手机** 上，按“+”图标并选择“新建笔记本”。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:55
+msgid "On **terminal**, press `:mn`"
+msgstr "在 **终端** 上，按 `:mn` "
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:57
+msgid "![](./SubNotebooks.png)"
+msgstr ""
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:59
+msgid "With tags 🏷️"
+msgstr "标签🏷️"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:61
+msgid "The second way to organise your notes is using tags:"
+msgstr "组织笔记的第二种方法是使用标签："
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:63
+msgid ""
+"On **desktop**, right-click on any note in the Note List, and select "
+"\"Edit tags\". You can then add the tags, separating them by commas."
+msgstr "在 **桌面** 上，右键单击注释列表中的任何注释，然后选择“编辑标签”。然后您可以添加标签，并用逗号分隔它们。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:64
+msgid ""
+"On **mobile**, open the note and press the \"⋮\" button and select "
+"\"Tags\"."
+msgstr "在 **手机** 上，打开笔记并按“收件箱”按钮并选择“标签”。"
+
+#: ../../../../../../mnt/go/documents/Docs/Joplin/Joplin-Tutorial-zh/source/welcome/1_welcome_to_joplin.md:65
+msgid "On **terminal**, type `:help tag` for the available commands."
+msgstr "在 **终端** 上，输入 `:help tag` 以获取可用命令。"
+

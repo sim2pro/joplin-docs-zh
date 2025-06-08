@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Joplin is a free, open source note taking and to-do application, which helps you write and organise your notes, and synchronise them between your devices.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="dai" changedate="20250608T041355Z" creationid="dai" creationdate="20250608T041355Z">
+        <seg>Joplin 是一个免费的开源笔记和待办事项应用程序，可帮助您撰写和组织笔记，并在多个设备之间同步它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The notes are searchable, can be copied, tagged and modified either from the applications directly or from your own text editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="dai" changedate="20250608T041414Z" creationid="dai" creationdate="20250608T041414Z">
+        <seg>笔记是可搜索的，可以直接从应用程序或从您自己的文本编辑器复制、标记和修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to Joplin!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="dai" changedate="20250608T041231Z" creationid="dai" creationdate="20250608T041231Z">
+        <seg>欢迎来到 Joplin！</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
